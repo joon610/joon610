@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+## email : jdj610@gmail.com
+## twitter : @_Joon610_
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joon610&count_private=true&show_icons=true" />
 </a>
