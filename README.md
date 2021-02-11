@@ -14,7 +14,6 @@
 
 ### Email      :     jdj610@gmail.com
 ### ClubHouse  :     @joon610
-### Twitter    :     @__joon610__
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joon610&count_private=true&show_icons=true" />
