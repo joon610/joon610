@@ -13,7 +13,6 @@
 [![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/)
 
 ### Email      :     jdj610@gmail.com
-### ClubHouse  :     @joon610
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joon610&count_private=true&show_icons=true" />
